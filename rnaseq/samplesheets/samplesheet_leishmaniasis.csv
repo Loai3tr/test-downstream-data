@@ -1,0 +1,11 @@
+sample_id,fastq_1,fastq_2,condition,lib_type,sequencer
+SRR8668755,path/to/SRR8668755_1.fastq.gz,path/to/SRR8668755_2.fastq.gz,control,auto,NextSeq
+SRR8668756,path/to/SRR8668756_1.fastq.gz,path/to/SRR8668756_2.fastq.gz,control,auto,NextSeq
+SRR8668757,path/to/SRR8668757_1.fastq.gz,path/to/SRR8668757_2.fastq.gz,control,auto,NextSeq
+SRR8668758,path/to/SRR8668758_1.fastq.gz,path/to/SRR8668758_2.fastq.gz,control,auto,NextSeq
+SRR8668759,path/to/SRR8668759_1.fastq.gz,path/to/SRR8668759_2.fastq.gz,control,auto,NextSeq
+SRR8668769,path/to/SRR8668769_1.fastq.gz,path/to/SRR8668769_2.fastq.gz,disease,auto,NextSeq
+SRR8668771,path/to/SRR8668771_1.fastq.gz,path/to/SRR8668771_2.fastq.gz,disease,auto,NextSeq
+SRR8668772,path/to/SRR8668772_1.fastq.gz,path/to/SRR8668772_2.fastq.gz,disease,auto,NextSeq
+SRR8668773,path/to/SRR8668773_1.fastq.gz,path/to/SRR8668773_2.fastq.gz,disease,auto,NextSeq
+SRR8668774,path/to/SRR8668774_1.fastq.gz,path/to/SRR8668774_2.fastq.gz,disease,auto,NextSeq
