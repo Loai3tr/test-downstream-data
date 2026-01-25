@@ -1,0 +1,7 @@
+sample_id,fastq_1,fastq_2,condition,lib_type,sequencer
+ERR188044,path/to/ERR188044_chrX_1.fastq.gz,path/to/ERR188044_chrX_2.fastq.gz,control,IU,HiSeq
+ERR188257,path/to/ERR188257_chrX_1.fastq.gz,path/to/ERR188257_chrX_2.fastq.gz,control,IU,HiSeq
+ERR188234,path/to/ERR188234_chrX_1.fastq.gz,path/to/ERR188234_chrX_2.fastq.gz,control,IU,HiSeq
+ERR188245,path/to/ERR188245_chrX_1.fastq.gz,path/to/ERR188245_chrX_2.fastq.gz,treated,IU,HiSeq
+ERR188104,path/to/ERR188104_chrX_1.fastq.gz,path/to/ERR188104_chrX_2.fastq.gz,treated,IU,HiSeq
+ERR188273,path/to/ERR188273_chrX_1.fastq.gz,path/to/ERR188273_chrX_2.fastq.gz,treated,IU,HiSeq
